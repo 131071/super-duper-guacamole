@@ -1,0 +1,4 @@
+pbcopy='xsel --clipboard --input'
+l8='ls -la'
+lock='chmod 400'
+unlock='chmod 777'
